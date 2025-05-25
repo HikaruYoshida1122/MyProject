@@ -6,7 +6,7 @@
 
 - `Northern_Array_Mapping .ipynb`：北半球の観測局と視線ベクトルを可視化するNotebook  
 - `Southern Array Mapping.ipynb`：南半球の観測局と視線ベクトルを可視化するNotebook  
-- `dummy_Northern_station.csv`：北半球の観測局のダミーデータ  
+- `dummy_Nortern_station.csv`：北半球の観測局のダミーデータ  
 - `dummy_Southern_station.csv`：南半球の観測局のダミーデータ  
 
 ※ 本リポジトリのCSVファイルはすべてダミーデータを元に構成されています。
